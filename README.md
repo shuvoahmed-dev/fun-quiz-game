@@ -1,6 +1,6 @@
 # Fun Quiz Game – Germany Edition 
 
-Welcome to **Fun Quiz Game**, a command-line based trivia challenge that tests your knowledge of Germany through a dynamic 5-question experience.
+Welcome to **Fun Quiz Game**, a command-line based simple python script that tests your knowledge of Germany through a dynamic 5-question experience. (Just for fun)
 
 ---
 
