@@ -8,7 +8,6 @@ Welcome to **Fun Quiz Game**, a command-line based simple python script that tes
 
 - [🎯 Objective](#-objective)
 - [🧩 Game Flow](#-game-flow)
-  - [🎁 Virtual Reward Structure](#-virtual-reward-structure)
 - [🔍 Code Logic Breakdown](#-code-logic-breakdown)
   - [🗃️ Data Storage](#️-data-storage)
   - [🔄 Conditional Nesting](#-conditional-nesting)
