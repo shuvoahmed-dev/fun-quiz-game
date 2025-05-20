@@ -4,6 +4,24 @@ Welcome to **Fun Quiz Game**, a command-line based simple python script that tes
 
 ---
 
+## 📖 Table of Contents
+
+- [🎯 Objective](#-objective)
+- [🧩 Game Flow](#-game-flow)
+  - [🎁 Virtual Reward Structure](#-virtual-reward-structure)
+- [🔍 Code Logic Breakdown](#-code-logic-breakdown)
+  - [🗃️ Data Storage](#️-data-storage)
+  - [🔄 Conditional Nesting](#-conditional-nesting)
+  - [🔡 Case Handling](#-case-handling)
+  - [💶 Reward Assignment](#-reward-assignment)
+  - [🎭 User Interaction](#-user-interaction)
+- [🚀 How to Run](#-how-to-run)
+- [📦 Example Questions](#-example-questions)
+- [🧠 Why This Code Stands Out](#-why-this-code-stands-out)
+- [🏁 Final Note](#-final-note)
+
+---
+
 ## 🎯 Objective
 
 The goal is simple:  
