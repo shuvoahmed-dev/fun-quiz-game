@@ -133,7 +133,7 @@ Reward amounts are stored as variables (`a`, `b`, `c`, `d`, `e`) and printed upo
 ## 🏁 Final Note
 
 This project may be small in size, but it’s built with care.  
-From its structure to its interactivity, it demonstrates how even simple CLI games can feel fun, clean, and thoughtfully designed.
+I'm currently learning Python, and this script—though simple—is a part of my hands-on journey to grasp the basics. Every line of code helps me grow a little more confident and curious about what's next.
 
 Thanks for checking it out! 🎉  
 Feel free to improve, remix, or extend it further.
